@@ -2,6 +2,8 @@
 
 This is a responsive landing page for a modern finance app in Nuxt.js.
 
+Live demo version: [here](https://finance-landing.netlify.app/)
+
 #### Tech Stack:
 
 - **Nuxt**: Makes the app fast and efficient with server-side and single-page rendering.
