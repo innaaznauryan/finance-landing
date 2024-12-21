@@ -1,0 +1,100 @@
+{
+    "en": "English",
+    "hy": "Armenian",
+    "ru": "Russian",
+    "site": {
+      "name": "Monity",
+      "description": "empower individuals, families, and small to medium-sized businesses to take control of their financial futures"
+    },
+  "thankYou": "Thank You",
+  "sections": {
+      "home": {
+        "title": "Home",
+        "subtitle": "Coming Soon!",
+        "description1": "Where Money Meets Management.",
+        "description2": "Unlock the future of financial management with Monity!",
+        "action": "Sign up"
+      },
+      "about": {
+        "title": "About us",
+        "description": "At Monity, we're dedicated to empowering individuals, families, and small to medium-sized businesses to take control of their financial futures. Our platform is designed to simplify financial management."
+      },
+      "comingSoon": {
+        "title": "Features",
+        "subtitle": "Coming soon",
+        "language": "Finances in Armenian Language",
+        "taxes": "Control over your taxes",
+        "control": "Financial control",
+        "analytics": "Analytics possibilities",
+        "convertor": "Multi-currency convertor",
+        "roles": "Different roles"
+      },
+      "future": {
+        "title": "Future",
+        "crypto": "Crypto management",
+        "convertor": "Automated multi- currency convertor",
+        "ai": "AI integrations",
+        "invoice": "Invoice templates",
+        "apps": "Applications (ios and Android)",
+        "analytics": "Export of analytics",
+        "email": "Email integrations",
+        "management": "Other expenses management"
+      },
+      "packages": {
+        "title": "Packages",
+        "individual": {
+          "title": "Individual",
+          "description": "For Individual usage",
+          "feature1": "1 member",
+          "feature2": "12 Team members",
+          "feature3": "5 Competitors per profile"
+        },
+        "family": {
+          "title": "Family",
+          "description": "For families",
+          "feature1": "2 members",
+          "feature2": "12 Team members",
+          "feature3": "5 Competitors per profile",
+          "feature4": "Hashtags per profile"
+        },
+        "business": {
+          "title": "Business",
+          "description": "For Businesses",
+          "feature1": "3 Social profiles",
+          "feature2": "12 Team members",
+          "feature3": "5 Competitors per profile",
+          "feature4": "Hashtags per profile"
+        }
+      },
+      "register": {
+        "description": "Register now and be the first to experience Monity!",
+        "email": {
+          "label": "Email", "placeholder": "Enter your email address"
+        },
+        "name": {
+          "label": "Name", "placeholder": "Enter your name"
+        },
+        "surname": {
+          "label": "Surname", "placeholder": "Enter your surname"
+        },
+        "submit": "Submit",
+        "successMessage": " for joining the Monity community! Stay tuned for exclusive updates and offers!",
+        "errorMessage": "Oops! Couldn't submit the form..."
+      },
+      "description": "At Monity, we're dedicated to empowering individuals, families, and small to medium-sized businesses to take control of their financial futures.",
+      "suggestions": {
+        "title": "Suggestions",
+        "subtitle": "For Suggestions",
+        "email": {
+          "label": "Your Email", "placeholder": "Enter your email address"
+        },
+        "textarea": "Your Suggestion",
+        "checkbox": "Hide my Email",
+        "send": "Send",
+        "successMessage": " for Suggestions! Stay tuned for exclusive updates and offers!",
+        "errorMessage": "Oops! Couldn't submit the form...",
+        "close": "Close"
+      },
+      "footer": "All rights reserved. Monity by Digital Threads ©"
+    }
+  }

@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-drag: none;
+    -webkit-user-drag: none;
+  }
+
+  body {
+    font-family: "Inter", "sans-serif";
+  }
+
+  main {
+    background-image: url("/assets/images/background.png");
+    background-repeat: no-repeat;
+    min-height: calc(100vh - 72px);
+  }
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
