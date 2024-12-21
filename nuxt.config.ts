@@ -29,7 +29,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       registerApiKey: process.env.REGISTER_API_KEY,
-      suggestionsApiKey:process.env.SUGGESTIONS_API_KEY
+      suggestionsApiKey: process.env.SUGGESTIONS_API_KEY
     },
-  },
+  }
 });

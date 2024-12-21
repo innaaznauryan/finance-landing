@@ -1,8 +1,15 @@
-# Nuxt 3 Minimal Starter
+## Finance App Landing Page
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a responsive landing page for a modern finance app in Nuxt.js.
 
-## Setup
+#### Tech Stack:
+
+- **Nuxt**: Makes the app fast and efficient with server-side and single-page rendering.
+- **i18n**: Adds support for multiple languages.
+- **Vuelidate**: Ensures forms are validated for correct and safe user input.
+- **Tailwind CSS**: Offers a simple and consistent design using utility classes.
+
+#### Project Setup
 
 Make sure to install the dependencies:
 
@@ -20,8 +27,6 @@ yarn install
 bun install
 ```
 
-## Development Server
-
 Start the development server on `http://localhost:3000`:
 
 ```bash
@@ -37,8 +42,6 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
 
 Build the application for production:
 
@@ -71,5 +74,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

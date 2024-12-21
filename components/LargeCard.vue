@@ -44,13 +44,22 @@ defineProps({
 const isAccordionOpen = ref(false)
 const isLargeScreen = ref(true)
 
+const updateScreenSize = () => {
+  isLargeScreen.value = window.innerWidth >= 1024;
+};
+
 const toggleAccordion = () => {
   isAccordionOpen.value = !isAccordionOpen.value
 }
 
 onMounted(() => {
-  isLargeScreen.value = window.innerWidth >= 1024
-})
+  updateScreenSize();
+  window.addEventListener('resize', updateScreenSize);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('resize', updateScreenSize);
+});
 </script>
 
 <style scoped>
